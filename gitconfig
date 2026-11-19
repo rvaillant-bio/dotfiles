@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rvaillant@gmail.com
+	name = Renaud VAILLANT
